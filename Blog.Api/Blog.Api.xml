@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blog.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Blog.Api.Controllers.WeatherForecastController.Get">
+            <summary>
+            测试
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
